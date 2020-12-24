@@ -1,3 +1,7 @@
-import { draggableData } from './data/draggableData.js'
+import { draggableData } from './data/draggableData.js' ;
+import { Draggable } from './component/Draggable.js' ;
 
-console.log(draggableData);
+new Draggable ({
+    selector: '#draggable',
+    data: draggableData,
+});

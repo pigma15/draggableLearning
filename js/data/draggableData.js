@@ -12,8 +12,20 @@ const draggableData = [
         count: 3,
     },
     {
-        name: 'One',
+        name: 'Four',
         count: 4,
+    },
+    {
+        name: 'Five',
+        count: 5,
+    },
+    {
+        name: 'Six',
+        count: 6,
+    },
+    {
+        name: 'Seven',
+        count: 7,
     },
 ]
 

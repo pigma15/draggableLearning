@@ -1,1 +1,6 @@
 @import './component/reset.css';
+@import './component/draggable.css';
+
+body {
+    background-color: #aaa;
+}
